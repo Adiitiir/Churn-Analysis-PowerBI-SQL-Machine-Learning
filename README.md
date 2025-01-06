@@ -1,4 +1,3 @@
-# Churn-Analysis-Portfolio-Project-Power-BI-SQL-Machine-Learning
 # Customer Churn Analysis with SQL Server, Power BI, and Python
 
 This repository contains a complete project to perform **customer churn analysis** using SQL Server, Power BI, and Python. It includes the entire ETL process, database setup, data modeling, machine learning, and visualization steps to analyze and predict customer churn effectively.
